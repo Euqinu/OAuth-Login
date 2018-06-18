@@ -1,0 +1,46 @@
+body{
+	background: silver;
+	margin: 0px;
+	padding: 0px;
+}
+
+.navbar{
+	margin: 0px;
+	padding: 6px;
+	padding-left: 10px;
+	background: grey;
+	height: 50px;
+
+}
+h1{
+	font-size: 20px;
+	font-style: bold;
+	color: yellow;
+}
+ul{
+	text-decoration: none;
+}
+li{
+	display: inline-block;
+	list-style-type: none;
+	text-decoration: none;
+}
+
+.google-btn{
+	 color: #fff;
+     text-decoration: none;
+     font-size: 18px;
+     
+    margin: 25px;
+     padding: 5px;
+    background: #ff5353;
+}
+
+.button{
+	background: grey;
+	color: white;
+	font-size: 18px;
+	text-decoration: none;
+	margin: 15px;
+	padding: 10px;
+}
